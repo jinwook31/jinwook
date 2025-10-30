@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jinwook Kim / Site Title"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Jinwook Kim"
 title_separator          : "-"
 name                     : &name "Jinwook Kim"
 description              : &description "Jinwook Kim's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jinwook Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm Postdoctoral Researcher in Graduate School of Culture Technology KAIST, Korea. I'm interested in HCI, VR/AR and Cognitive Neuroscience."
   location         : "Republic of Korea"
   employer         : "KAIST"
   uri              : # URL
